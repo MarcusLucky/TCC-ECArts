@@ -1,0 +1,86 @@
+form{
+    margin-left: 400px;
+    margin-top: 35px;
+    font-size: 20px;
+    font-family: Arial bold;
+}
+
+table{
+    border: none;
+}
+
+input{
+    border-radius: 5px;
+    background-color: #f1f1f1;
+}
+.input-form{
+    border: none;
+    padding: 5px;
+}
+
+.select-accont{
+    border: none;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+
+    background-color: #f1f1f1;
+}
+
+.up{
+    border-radius: 5px;
+    cursor: pointer;
+
+    padding: 5px;
+
+    font-size: 15px;
+
+    font-family: Arial bold;
+}
+.up:hover{
+    background-color: #e9e9e9;
+    color: black;
+}
+.up-div{
+    position: fixed;
+
+    display: flex;
+
+    margin-top: 550px;
+    margin-left: 80px;
+}
+
+.button{
+    position: relative;
+    right: 160px;
+
+    cursor: pointer;
+
+    padding: 5px;
+
+    font-size: 15px;
+    font-family: Arial bold;
+
+    background-color: #fff;
+}
+.button:hover{
+    background-color:#e0e0e0;
+    color: black;
+}
+
+.table-dados{
+    background-color: #fff;
+}
+.table-conta{
+    background-color: #fff;
+}
+
+button{
+    background-color: white;
+}
+
+.delete-perfil:hover{
+    background-color: red;
+}
+

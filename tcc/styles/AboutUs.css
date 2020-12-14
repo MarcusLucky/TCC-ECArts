@@ -1,0 +1,24 @@
+.info{
+    margin-left: 390px;
+    margin-top: 55px;
+    height: 603px;
+    width: 610px;
+    background-color: rgba(95, 0, 139, 0.050);
+    
+}
+
+h1, h4{
+    font-family: Arial;
+    color: rgb(14, 14, 14);
+
+}
+
+.h1{
+    font-size: 55px;
+    margin-left: 155px;
+}
+
+.h4{
+    font-size: 15px;
+    text-indent: 40px;
+}
